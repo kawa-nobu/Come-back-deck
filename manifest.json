@@ -1,20 +1,25 @@
 {
-  "name": "Come-back-deck",
+  "name": "Come-back-deck(FF)",
   "version": "1.0",
-  "manifest_version": 3,
+  "manifest_version": 2,
   "description": "TweetDeckを取り戻せ!",
-  "action": {
+  "browser_action": {
     "default_popup": "popup.html",
     "default_icon": "icon.png"
+  },
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "kwnobu@gmail.com-come_back_deck",
+      "strict_min_version": "100.0"
+    }
   },
   "icons" : {
     "128" : "icon.png"
   },
-  "host_permissions": [
-    "*://*.twitter.com/*"
-  ],
-  "permissions" : ["cookies"],
-  "background" : {"service_worker" : "background.js"},
+  "permissions" : ["*://*.twitter.com/", "cookies"],
+  "background" : {
+    "scripts" : ["background.js"]
+  },
   "content_scripts": [{
     "matches": ["https://*.twitter.com/*"],
     "js": ["content.js"]

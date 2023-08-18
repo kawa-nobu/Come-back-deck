@@ -1,2 +1,3 @@
 chrome.runtime.sendMessage({message: "wake_up"});
-open('https://tweetdeck.twitter.com/', '_blank');
+chrome.tabs.create({url:'https://tweetdeck.twitter.com/'});
+window.close();
