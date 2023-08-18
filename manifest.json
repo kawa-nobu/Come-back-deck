@@ -1,0 +1,22 @@
+{
+  "name": "Come-back-deck",
+  "version": "1.0",
+  "manifest_version": 3,
+  "description": "TweetDeckを取り戻せ!",
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "icon.png"
+  },
+  "icons" : {
+    "128" : "icon.png"
+  },
+  "host_permissions": [
+    "*://*.twitter.com/*"
+  ],
+  "permissions" : ["cookies"],
+  "background" : {"service_worker" : "background.js"},
+  "content_scripts": [{
+    "matches": ["https://*.twitter.com/*"],
+    "js": ["content.js"]
+    }]
+  }
