@@ -9,7 +9,7 @@ Twitterの仕様上、2023/08/18 11:00 時点で旧Deckのデザインはベー�
 
 ## 追加方法(Chrome Web Store, Mozilla Add-ons) **※推奨**
 * [Chrome Web Store](https://chrome.google.com/webstore/detail/come-back-deck/npgmgeicfflphkalgckobobnnnmjnnnc) (Chrome, Edge, Brave等のChromium系ブラウザをお使いの方向け)
-* **Mozilla Add-onsにて現在審査中です。**(FireFox, Floorp Browser等のFireFox系ブラウザをお使いの方向け)
+* [Mozilla Add-ons](https://addons.mozilla.org/ja/firefox/addon/come-back-deck/) (FireFox, Floorp Browser等のFireFox系ブラウザをお使いの方向け)
 
 ## 追加方法(デベロッパーモード)
 
