@@ -8,6 +8,8 @@ Twitterの仕様上、2023/08/18 11:00 時点で旧Deckのデザインはベー�
 開発者の環境では2023年08月18日早朝4時の手法を見つけ出した時にはまだ旧Deckは使用可能でした。
 
 ## 追加方法(Chrome Web Store, Mozilla Add-ons) **※推奨**
+**開発や検証を行わない場合は Chrome Web Store, Mozilla Add-ons より、導入する事をお勧めします。**  
+**(簡単に導入でき、自動アップデートが行われるため)**
 * [Chrome Web Store](https://chrome.google.com/webstore/detail/come-back-deck/npgmgeicfflphkalgckobobnnnmjnnnc) (Chrome, Edge, Brave等のChromium系ブラウザをお使いの方向け)
 * [Mozilla Add-ons](https://addons.mozilla.org/ja/firefox/addon/come-back-deck/) (FireFox, Floorp Browser等のFireFox系ブラウザをお使いの方向け)
 
