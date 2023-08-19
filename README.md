@@ -19,7 +19,7 @@ Twitterの仕様上、2023/08/18 11:00 時点で旧Deckのデザインはベー�
 
 2.ダウンロードしたら任意の所でzipの解凍をする。
 
-3.ChromeのURL欄から「chrome://extensions/」にアクセス(FireFox以外のBraveやEdgeのChromiumベースのブラウザに対応)
+3.ChromeのURL欄から「chrome://extensions/」にアクセス
 
 4.右上の「デベロッパー モード」部分横のスイッチを押す
 
