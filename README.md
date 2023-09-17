@@ -1,11 +1,17 @@
 # Come-back-deck
 ![icon](https://github.com/kawa-nobu/Come-back-deck/assets/44832116/7a79c98c-4561-4632-94e2-27f993af73f6)
 
-TweetDeckを取り戻せる拡張機能です。
+**対策された為、開発を停止しました。**  
+**現在、Deck代替フロントエンド「Open-Deck」の開発を行っています。**  
+**詳しくは下記リポジトリをご確認ください。**  
+[Open-Deck](https://github.com/kawa-nobu/Open-Deck)  
 
-Twitterの仕様上、2023/08/18 11:00 時点で旧Deckのデザインはベータ版になります。
 
-開発者の環境では2023年08月18日早朝4時の手法を見つけ出した時にはまだ旧Deckは使用可能でした。
+~TweetDeckを取り戻せる拡張機能です。~
+
+~Twitterの仕様上、2023/08/18 11:00 時点で旧Deckのデザインはベータ版になります。~
+
+~開発者の環境では2023年08月18日早朝4時の手法を見つけ出した時にはまだ旧Deckは使用可能でした。~
 
 ## 追加方法(Chrome Web Store, Mozilla Add-ons) **※推奨**
 **開発や検証を行わない場合は Chrome Web Store, Mozilla Add-ons より、導入する事をお勧めします。**  
